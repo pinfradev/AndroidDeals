@@ -6,5 +6,5 @@ interface CouponView {
     //Presentador
     fun getCoupons()
     //Vista
-    fun showCoupons(coupons: ArrayList<Coupon>)
+    fun showCoupons(coupons: ArrayList<Coupon>?)
 }

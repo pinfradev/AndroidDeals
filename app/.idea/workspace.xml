@@ -7,13 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01eb73e6-bb9c-40aa-9ce5-5b85c6c09403" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/Coupon.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/model/Coupon.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/CouponDetailActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/view/CouponDetailActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/view/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/RecyclerCouponsAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/view/RecyclerCouponsAdapter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/model/Coupon.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/model/Coupon.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/model/CouponRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/model/CouponRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/model/CouponsInteractorImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/model/CouponsInteractorImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/presenter/CouponPresenter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/presenter/CouponPresenter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/presenter/CouponPresenterImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/presenter/CouponPresenterImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/view/CouponDetailActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/view/CouponDetailActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/view/CouponView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/view/CouponView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/view/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/view/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/view/RecyclerCouponsAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/view/RecyclerCouponsAdapter.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +56,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_30" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-08-16T14:51:33.916Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -146,36 +152,25 @@
       <screen x="67" y="27" width="1533" height="873" />
     </state>
     <state x="573" y="104" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/67.27.1533.873@67.27.1533.873" timestamp="1597530750993" />
-    <state width="1487" height="272" key="GridCell.Tab.0.bottom" timestamp="1597535529459">
+    <state width="1487" height="219" key="GridCell.Tab.0.bottom" timestamp="1597590289214">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1487" height="272" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1597535529459" />
-    <state width="1487" height="272" key="GridCell.Tab.0.center" timestamp="1597535529459">
+    <state width="1487" height="219" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1597590289214" />
+    <state width="1487" height="219" key="GridCell.Tab.0.center" timestamp="1597590289212">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1487" height="272" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1597535529459" />
-    <state width="1487" height="272" key="GridCell.Tab.0.left" timestamp="1597535529459">
+    <state width="1487" height="219" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1597590289212" />
+    <state width="1487" height="219" key="GridCell.Tab.0.left" timestamp="1597590289212">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1487" height="272" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1597535529459" />
-    <state width="1487" height="272" key="GridCell.Tab.0.right" timestamp="1597535529459">
+    <state width="1487" height="219" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1597590289212" />
+    <state width="1487" height="219" key="GridCell.Tab.0.right" timestamp="1597590289213">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state width="1487" height="272" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1597535529459" />
-    <state x="489" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1597511978191">
+    <state width="1487" height="219" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1597590289213" />
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1597584808075">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="489" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1597511978191" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/anncode/offersandcoupons/view/CouponDetailActivity.kt</url>
-          <line>21</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1597584808075" />
   </component>
 </project>

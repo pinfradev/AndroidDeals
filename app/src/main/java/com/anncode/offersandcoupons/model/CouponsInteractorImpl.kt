@@ -7,7 +7,7 @@ class CouponsInteractorImpl(var couponPresenter: CouponPresenter): CouponsIntera
     private var couponRepository: CouponRepository = CouponRepositoryImpl(couponPresenter)
 
     override fun getCouponsAPI() {
-
+        couponRepository.getCouponsAPI()
     }
 
 }
